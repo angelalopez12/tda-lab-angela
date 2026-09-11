@@ -1,8 +1,8 @@
-# TDA Lab de [Ángela López Molina]
+# TDA Lab de Ángela López Molina
 
-**[2º Bach A] · Curso 2026-2027**
+**2º Bach A · Curso 2026-2027**
 
-[Aquí reflejaré el fruto de mi trabajo diario en la asignatura de TDA II.]
+Aquí reflejaré el fruto de mi trabajo diario en la asignatura de TDA II.
 
 ---
 
