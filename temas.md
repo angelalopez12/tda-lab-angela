@@ -1,15 +1,17 @@
-# Temas del curso
+ # Temas del curso
 
-Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
-algo que ha salido y tiene que ver con lo que estamos dando.
+### 16/09 · Mis aficiones
 
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
+Llevo practicando tenis desde los seis años ya que toda
+mi familia lo jugó en algún momento de sus vidas. Lo que más
+me gusta es el momento en que por fin corriges un error
+que te pasaba factura y comienzas a ver un progreso rápido.
+Aunque jugar a veces sea frustrante, para mí es una forma
+de desconectar del día a día y solo pensar en el presente.
 
-```
-### Título del tema — fecha
+Buscando en GitHub he encontrado [tennis_analysis](https://github.com/abdullahtarek/tennis_analysis),
+un programa libre que analiza a los tenistas en un vídeo para estudiar su velocidad, potencia de tiro y cantidad de golpes .
 
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
+![Mi balón de balonmano](capturas/balonmano.jpg)
+
+---
