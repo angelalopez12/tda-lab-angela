@@ -11,7 +11,6 @@ de desconectar del día a día y solo pensar en el presente.
 
 Buscando en GitHub he encontrado [tennis_analysis](https://github.com/abdullahtarek/tennis_analysis),
 un programa libre que analiza a los tenistas en un vídeo para estudiar su velocidad, potencia de tiro y cantidad de golpes .
-
-![Mi foto](capturas/red.png)
+![Mi red](capturas/red.png)
 
 ---
