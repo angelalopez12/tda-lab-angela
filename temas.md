@@ -34,3 +34,19 @@ empatía o la superación personal.
 Imagen: Shai Pal, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FC_Barcelona_-_Bayer_04_Leverkusen,_7_mar_2012_(07).jpg)
 
 ---
+
+### 13/10 · Ada Lovelace
+
+
+Ada LoveLace fue una aristócrata matemática que asentó las bases de los mundos digitales,
+sobre todo en el área de la programación. Inventó un algoritmo para que una máquina 
+mecánica calcurara unos números, lo que fue considerado el primer software de la historia.
+[Ada Lovelace en National Geographic](https://historia.nationalgeographic.com.es/a/ada-lovelace-visionaria-hija-lord-byron_15864)
+El Día de Ada Lovelace se celebra el segundo martes de octubre porque su creadora buscaba 
+un mes sin vacaciones ni exámenes en el hemisferio norte para que los colegios pudierann
+organizar eventos.
+
+![DESCRIPCIÓN CORTA](capturas/ada.jpg){: width="300"}
+Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png))*
+
+---
