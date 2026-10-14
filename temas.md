@@ -47,6 +47,6 @@ un mes sin vacaciones ni exámenes en el hemisferio norte para que los colegios 
 organizar eventos.
 
 ![DESCRIPCIÓN CORTA](capturas/ada.png) {: width="300"}
-Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png))*
+*Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png))*
 
 ---
