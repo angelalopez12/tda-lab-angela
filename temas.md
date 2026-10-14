@@ -46,7 +46,7 @@ El Día de Ada Lovelace se celebra el segundo martes de octubre porque su creado
 un mes sin vacaciones ni exámenes en el hemisferio norte para que los colegios pudierann
 organizar eventos.
 
-![DESCRIPCIÓN CORTA](capturas/ada.jpg){: width="300"}
+![DESCRIPCIÓN CORTA](capturas/ada.png){: width="300"}
 Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png))*
 
 ---
