@@ -69,7 +69,7 @@ disco de oro con sonidos e imágenes de la humanidad.
 | Lo que tarda su señal en llegar | 24 horas |
 | Años de viaje | 49 años |
 
-![DESCRIPCIÓN CORTA](capturas/voyager.jpg){: width="300"}
+![DESCRIPCIÓN CORTA](capturas/voyager.jpg) {: width="300"}
 *PIE DE FOTO. Imagen: NASA/Walt Feimer, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Voyager_1_entering_heliosheath_region.jpg)*
 
 **Mi Disco de Oro 2026**
