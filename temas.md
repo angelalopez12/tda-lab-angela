@@ -79,7 +79,4 @@ disco de oro con sonidos e imágenes de la humanidad.
 - **En qué idioma:** Español.
 - **En qué formato:** WAV.
 
-
-
-
 ---
