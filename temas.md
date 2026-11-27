@@ -71,7 +71,7 @@ disco de oro con sonidos e imágenes de la humanidad.
 | Años de viaje | 49 años |
 
 ![DESCRIPCIÓN CORTA](capturas/voyager.jpg){: width="300"}
-Imagen: NASA/Walt Feimer, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Voyager_1_entering_heliosheath_region.jpg)*
+Imagen: NASA/Walt Feimer, [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/2/29/Voyager_spacecraft.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)*
 
 **Mi Disco de Oro 2026**
 
