@@ -46,6 +46,11 @@ El Día de Ada Lovelace se celebra el segundo martes de octubre porque su creado
 un mes sin vacaciones ni exámenes en el hemisferio norte para que los colegios pudieran
 organizar eventos.
 
+![Retrato de Ada Lovelace](capturas/ada.png){: width="300"}
+*Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png))*
+
+---
+
 ### 22/11 · Voyager 1
 
 La Voyager 1 es una sonda espacial enviada por la NASA el 5 de septiembre de 1977 para 
@@ -73,8 +78,7 @@ disco de oro con sonidos e imágenes de la humanidad.
 - **En qué idioma:** Español.
 - **En qué formato:** WAV.
 
----
-![Retrato de Ada Lovelace](capturas/ada.png){: width="300"}
-*Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png))*
+
+
 
 ---
