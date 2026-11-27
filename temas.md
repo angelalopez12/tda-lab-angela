@@ -46,6 +46,34 @@ El Día de Ada Lovelace se celebra el segundo martes de octubre porque su creado
 un mes sin vacaciones ni exámenes en el hemisferio norte para que los colegios pudieran
 organizar eventos.
 
+### 22/11 · Voyager 1
+
+La Voyager 1 es una sonda espacial enviada por la NASA el 5 de septiembre de 1977 para 
+investigar los planetas Júpiter y Saturno.[Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1)
+Hoy en día, es el objeto humano que más distancia ha recorrido en el espacio y salió de
+la zona de influencia del Sol en 2012. Volvió a ser noticia en noviembre de 2026 por 
+alcanzar una distancia de 24 horas luz de la Tierra. Como dato curioso transporta un 
+disco de oro con sonidos e imágenes de la humanidad.
+
+
+| Dato | Voyager 1 |
+|---|---|
+| Lanzamiento | 05/10/1977 |
+| Distancia a la Tierra | 25.902 millones de kilómetros |
+| Velocidad | 61.155 km/h |
+| Lo que tarda su señal en llegar | 24 horas |
+| Años de viaje | 49 años |
+
+![DESCRIPCIÓN CORTA](...){: width="300"}
+*PIE DE FOTO. Imagen: EL AUTOR, [Wikimedia Commons](DIRECCIÓN DE LA PÁGINA DE LA IMAGEN)*
+
+**Mi Disco de Oro 2026**
+
+- **Lo que pondría:** El himno de Asturias.
+- **En qué idioma:** Español.
+- **En qué formato:** WAV.
+
+---
 ![Retrato de Ada Lovelace](capturas/ada.png){: width="300"}
 *Imagen: Antoine Claudet, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png))*
 
